@@ -1,0 +1,286 @@
+{
+  "items": [
+    {
+      "description": "A comprehensive survey and collection of resources on Context Engineering - the evolution from static prompting to dynamic, context-aware AI systems, and increasingly to agent runtimes, memory systems, protocols, coding agents, and observability stacks.",
+      "items": [],
+      "title": "💬 Join Our Community"
+    },
+    {
+      "description": "For questions, suggestions, or collaboration opportunities, please feel free to reach out:\nLingrui Mei📧 Email: meilingrui25b@ict.ac.cn or meilingrui22@mails.ucas.ac.cn\nI WROTE THE WRONG EMAIL ADDRESS IN THE FIRST VERSION OF MY PAPER!! You can also open an issue in this repository for general discussions and suggestions.",
+      "items": [],
+      "title": "📧 Contact"
+    },
+    {
+      "description": "In the era of Large Language Models (LLMs), the limitations of static prompting have become increasingly apparent. Context Engineering represents the natural evolution to address LLM uncertainty and achieve production-grade AI deployment. Unlike traditional prompt engineering, context engineering encompasses the complete information payload provided to LLMs at inference time, including all structured informational components necessary for plausible task completion.\nThis repository serves as a comprehensive survey of context engineering techniques, methodologies, and applications.",
+      "items": [],
+      "title": "🎯 Introduction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧭 2026 Agent Era Update"
+    },
+    {
+      "description": "As of March 2026, context engineering remains a useful and necessary concept, but it is no longer the whole story. The center of gravity has shifted from \"how to pack the best prompt\" to how agent systems manage runtime state, memory, tools, protocols, approvals, and long-horizon execution. In practice, context engineering now sits inside a broader stack that also includes agent harnesses, interoperability protocols, project memory for coding agents, and trace-first observability.",
+      "items": [],
+      "title": "From Context Engineering to Agent Engineering"
+    },
+    {
+      "description": "General AI Survey Papers\nContext and Reasoning\nMemory Systems and Context Persistence\nSurvey\nBenchmarks\nProduction Memory Systems\nAdditional RAG and Retrieval Surveys",
+      "items": [],
+      "title": "🔗 Related Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🏗️ Definition of Context Engineering"
+    },
+    {
+      "description": "The context assembly can be decomposed as:\n$$\\text{context} = \\text{Concat}(\\text{Format}(\\text{instructions}), \\text{Format}(\\text{knowledge}), \\text{Format}(\\text{tools}), \\text{Format}(\\text{memory}), \\text{Format}(\\text{query}))$$\nWhere $\\text{Format}$ represents component-specific structuring, and $\\text{Concat}$ assembles them respecting token limits and optimal positioning.\nContext Engineering is therefore the discipline of designing and optimizing these assembly and formatting functions to maximize task performance.",
+      "items": [],
+      "title": "Dynamic Context Orchestration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Comparison"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "davidkimai/Context-Engineering: \"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T05:04:18Z",
+            "owner": "jasontang-ai",
+            "repo": "Context-Engineering",
+            "stars": 9208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bernstein",
+          "description": "Multi-agent orchestrator with context-aware model routing. Routes tasks to optimal models based on complexity, manages context across parallel agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:53:03Z",
+            "owner": "sipyourdrink-ltd",
+            "repo": "bernstein",
+            "stars": 862
+          }
+        }
+      ],
+      "title": "🌐 Related Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤔 Why Context Engineering?"
+    },
+    {
+      "description": "The evolution from prompt engineering to context engineering represents a fundamental maturation in AI system design. As influential figures like Andrej Karpathy, Tobi Lutke, and Simon Willison have argued, the term \"prompt engineering\" has been diluted to mean simply \"typing things into a chatbot,\" failing to capture the complexity required for industrial-strength LLM applications.",
+      "items": [],
+      "title": "The Paradigm Shift: From Tactical to Strategic"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Fundamental Challenges with Current Approaches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Limitations of Static Prompting"
+    },
+    {
+      "description": "If prompt engineering is writing a single line of dialogue for an actor, context engineering is the entire process of building the set, designing lighting, providing detailed backstory, and directing the scene. The dialogue only achieves its intended impact because of the rich, carefully constructed environment surrounding it.",
+      "items": [],
+      "title": "The \"Movie Production\" Analogy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Enterprise and Production Requirements"
+    },
+    {
+      "description": "Most failures in modern agentic systems are no longer attributable to core model reasoning capabilities but are instead \"context failures\". The true engineering challenge lies not in what question to ask, but in ensuring the model has all necessary background, data, tools, and memory to answer meaningfully and reliably.",
+      "items": [],
+      "title": "Context Failures Are the New Bottleneck"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4. Cognitive and Information Science Foundations"
+    },
+    {
+      "description": "Context Engineering elevates AI development from a collection of \"prompting tricks\" to a rigorous discipline of systems architecture. It applies decades of knowledge in operating system design, memory management, and distributed systems to the unique challenges of LLM-based applications.\nThis discipline is foundational for unlocking the full potential of LLMs in production systems, enabling the transition from one-off text generation to autonomous agents and sophisticated AI copilots that can reliably operate in complex, dynamic environments.",
+      "items": [],
+      "title": "5. The Future of AI System Architecture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 Components, Techniques and Architectures"
+    },
+    {
+      "description": "Position Interpolation and Extension Techniques\nMemory-Efficient Attention Mechanisms\nUltra-Long Sequence Processing (100K+ Tokens)\nComprehensive Extension Surveys and Methods\nAudio-Visual Context Integration and Processing\nMulti-Modal Prompt Engineering and Context Design\nCVPR 2024 Vision-Language Advances\nVideo and Temporal Understanding",
+      "items": [],
+      "title": "Context Scaling"
+    },
+    {
+      "description": "In the agent era, context engineering increasingly means runtime context management rather than only prompt construction. Production systems now rely on compaction, caching, artifact-backed state, and scoped instruction loading to keep long-horizon agents efficient and controllable.\nRuntime Context Management Patterns\nContext Optimization Engines\nProduction Design Questions",
+      "items": [],
+      "title": "Context Management in Production"
+    },
+    {
+      "description": "Knowledge Graph-Enhanced Language Models\nGraph Neural Networks Combined with Language Models\nStructured Data Integration\nFoundational KG-LLM Integration Methods",
+      "items": [],
+      "title": "Structured Data Integration"
+    },
+    {
+      "description": "Self-Supervised Context Generation and Augmentation\nReasoning Models That Generate Their Own Context\nIterative Context Refinement and Self-Improvement\nMeta-Learning and Autonomous Context Evolution\nFoundational Chain-of-Thought Research",
+      "items": [],
+      "title": "Self-Generated Context"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠️ Implementation and Challenges"
+    },
+    {
+      "description": "In 2026, many of the most important advances in context engineering no longer live only inside the prompt. They live inside the agent harness: the runtime loop that manages plans, subagents, checkpoints, files, approvals, tool execution, and recovery from failure. This is where context engineering becomes agent engineering.\nHarness and Runtime Design References\nCore Runtime Concerns",
+      "items": [],
+      "title": "0. Agent Harnesses and Runtime Systems"
+    },
+    {
+      "description": "survey\nNaive RAG\nAdvanced RAG\nModular RAG\nGraph-Based RAG\nAgentic RAG\nReal-Time and Streaming RAG",
+      "items": [],
+      "title": "1. Retrieval-Augmented Generation (RAG)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Memory Systems"
+    },
+    {
+      "description": "Coding agents have made project memory concrete. In practice, memory now often lives in artifacts such as repository instruction files, scoped rules, reusable skills, and long-lived project notes rather than only in vector stores.\nProject Memory References\nPersistent Memory Architecture\nMemory Interchange Standards\nMemory-Augmented Neural Networks\nEpisodic Memory and Context Persistence\nContinual Learning and Memory Consolidation\nConversational Memory\nPersonalization and Memory\nSafety and Alignment with Memory\nTool Integration and Memory\nLearning and Reflection",
+      "items": [],
+      "title": "Project Memory and Instruction Artifacts"
+    },
+    {
+      "description": "Survey",
+      "items": [],
+      "title": "3. Agent Communication"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4. Tool Use and Function Calling"
+    },
+    {
+      "description": "The frontier of tool use has shifted from static function schemas to hosted tool runtimes, remote servers, and computer use interfaces. In the agent era, tools are increasingly connected through platform-managed execution, approval flows, and UI-aware control loops rather than single-shot JSON calls.\nOfficial Tooling and Computer Use References\nFoundational Tool Learning\nAdvanced Function Calling Systems\nMulti-Agent Function Calling",
+      "items": [],
+      "title": "Hosted Agent Tools and Computer Use"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📊 Evaluation Paradigms for Context-Driven Systems"
+    },
+    {
+      "description": "Foundational Long-Context Benchmarks\nMultimodal and Specialized Evaluation\nRAG and Generation Evaluation",
+      "items": [],
+      "title": "Context Quality Assessment"
+    },
+    {
+      "description": "Synthetic vs. Realistic Evaluation",
+      "items": [],
+      "title": "Benchmarking Context Engineering"
+    },
+    {
+      "description": "Long-running agent systems need more than offline benchmark scores. They require trace-level visibility into plans, tool calls, memory reads and writes, approvals, retries, and failure modes. Observability is increasingly the verification layer for context engineering in production.\nObservability and Telemetry References",
+      "items": [],
+      "title": "Agent Observability and Telemetry"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🚀 Applications and Systems"
+    },
+    {
+      "description": "Hypothesis Generation and Data-Driven Discovery\nAutomated Scientific Discovery\nAI for Science Integration and Future Directions\nDeep Research Applications",
+      "items": [],
+      "title": "Complex Research Systems"
+    },
+    {
+      "description": "Context Engineering as a Core Discipline\nEnterprise AI Case Studies\nEnterprise Applications and Infrastructure\nDeveloper Tools with Context Engineering",
+      "items": [],
+      "title": "Production Systems"
+    },
+    {
+      "description": "Coding agents are one of the clearest production settings in which context engineering becomes agent engineering. Here, context is no longer just a prompt: it becomes repository instructions, project memory, task plans, file diffs, test results, and tool traces.",
+      "items": [],
+      "title": "Coding Agents and Project Memory"
+    },
+    {
+      "description": "The production ecosystem is increasingly organized around full agent stacks rather than isolated models or prompts. These stacks combine tools, memory, runtime orchestration, sessions, observability, and interoperability in a single platform surface.",
+      "items": [],
+      "title": "Platform Stacks and Hosted Agent Runtimes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔮 Limitations and Future Directions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Paper Formatting Guidelines"
+    },
+    {
+      "description": "This project is licensed under the MIT License - see the LICENSE file for details.",
+      "items": [],
+      "title": "📄 License"
+    },
+    {
+      "description": "If you find this survey helpful in your research, please consider citing:",
+      "items": [],
+      "title": "📑 Citation"
+    },
+    {
+      "description": "This project is ongoing and continuously evolving. While we strive for accuracy and completeness, there may be errors, omissions, or outdated information. We welcome corrections, suggestions, and contributions from the community. Please stay tuned for regular updates and improvements.",
+      "items": [],
+      "title": "⚠️ Disclaimer"
+    },
+    {
+      "description": "For questions, suggestions, or collaboration opportunities, please feel free to reach out:\nLingrui Mei📧 Email: meilingrui22@mails.ucas.ac.cn\nYou can also open an issue in this repository for general discussions and suggestions.",
+      "items": [],
+      "title": "📧 Contact"
+    },
+    {
+      "description": "This survey builds upon the foundational work of the AI research community. We thank all researchers contributing to the advancement of context engineering and large language models.",
+      "items": [],
+      "title": "🙏 Acknowledgments"
+    },
+    {
+      "description": "Star ⭐ this repository if you find it helpful!\n",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:26:57.982Z",
+    "original_repository": "Meirtz/Awesome-Context-Engineering",
+    "original_repository_sha": "8b6ede2b5e610774e01d74902d65a51000d671a4",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Context-Engineering",
+    "enhanced_repository_description": null,
+    "title": "Awesome Context Engineering with stars"
+  }
+}
