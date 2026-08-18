@@ -70,10 +70,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:55:12Z",
+            "last_commit": "2026-08-18T13:10:43Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 915
+            "stars": 926
           }
         }
       ],
@@ -276,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:50:51.749Z",
+    "last_updated": "2026-08-18T14:57:07.018Z",
     "original_repository": "Meirtz/Awesome-Context-Engineering",
     "original_repository_sha": "8b6ede2b5e610774e01d74902d65a51000d671a4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Context-Engineering",
