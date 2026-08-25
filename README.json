@@ -15,7 +15,7 @@
             "last_commit": "2026-02-27T05:04:18Z",
             "owner": "jasontang-ai",
             "repo": "Context-Engineering",
-            "stars": 9225
+            "stars": 9227
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-24T14:44:18Z",
+            "last_commit": "2026-08-25T05:52:10Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 974
+            "stars": 981
           }
         }
       ],
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:05:51.763Z",
+    "last_updated": "2026-08-25T05:52:45.380Z",
     "original_repository": "Meirtz/Awesome-Context-Engineering",
     "original_repository_id": 1012676456,
     "original_repository_sha": "8b6ede2b5e610774e01d74902d65a51000d671a4",
