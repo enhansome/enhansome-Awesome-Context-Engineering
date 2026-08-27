@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-26T15:45:15Z",
+            "last_commit": "2026-08-27T11:21:48Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1001
+            "stars": 1008
           }
         }
       ],
@@ -38,9 +38,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:56:31.687Z",
-    "original_repository": "Meirtz/Awesome-Context-Engineering",
-    "original_repository_id": 1012676456,
+    "last_updated": "2026-08-27T11:21:58.598Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1012676456,
+      "language": null,
+      "last_commit": "2026-05-28T05:40:26Z",
+      "owner": "Meirtz",
+      "repo": "Awesome-Context-Engineering",
+      "stars": 3284
+    },
     "original_repository_sha": "8b6ede2b5e610774e01d74902d65a51000d671a4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Context-Engineering",
     "enhanced_repository_description": null,
