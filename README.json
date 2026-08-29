@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\" — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.",
+            "homepage": "https://deepwiki.com/davidkimai/Context-Engineering",
             "id": 1010380782,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-27T05:04:18Z",
+            "open_issues": 3,
             "owner": "jasontang-ai",
             "repo": "Context-Engineering",
-            "stars": 9232
+            "stars": 9232,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.512Z"
         },
@@ -26,12 +31,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run",
+            "homepage": "https://bernstein.run",
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-28T22:00:01Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:13:45Z",
+            "open_issues": 141,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1024
+            "stars": 1026,
+            "topics": [
+              "agent-fleet",
+              "agent-infrastructure",
+              "agent-orchestrator",
+              "agent-swarm",
+              "ai-orchestration",
+              "aider",
+              "air-gap",
+              "attestation",
+              "audit-log",
+              "audit-trail",
+              "autonomous-coding",
+              "deterministic-replay",
+              "git-worktree",
+              "git-worktrees",
+              "llm-orchestration",
+              "orchestrator",
+              "parallel-agents",
+              "provenance",
+              "reproducibility",
+              "tamper-evident"
+            ]
           },
           "first_seen": "2026-08-28T23:35:06.512Z"
         }
@@ -40,15 +71,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:06.512Z",
+    "last_updated": "2026-08-29T04:21:45.351Z",
     "original_repository_info": {
       "archived": false,
+      "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
+      "homepage": null,
       "id": 1012676456,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-05-28T05:40:26Z",
+      "open_issues": 67,
       "owner": "Meirtz",
       "repo": "Awesome-Context-Engineering",
-      "stars": 3287
+      "stars": 3287,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agi",
+        "awesome-list",
+        "cognitive-science",
+        "context-engineering",
+        "llm",
+        "rag"
+      ]
     },
     "original_repository_sha": "8b6ede2b5e610774e01d74902d65a51000d671a4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Context-Engineering",
