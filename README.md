@@ -514,7 +514,7 @@ This Bayesian formulation enables:
 ## 🌐 Related Blogs
 
 * [davidkimai/Context-Engineering: "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." ](https://github.com/davidkimai/Context-Engineering) ⭐ 9,234 | 🐛 3 | 🌐 Python | 📅 2026-02-27
-* [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) ⭐ 1,029 | 🐛 151 | 🌐 Python | 📅 2026-08-29 - Multi-agent orchestrator with context-aware model routing. Routes tasks to optimal models based on complexity, manages context across parallel agents.
+* [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) ⭐ 1,041 | 🐛 136 | 🌐 Python | 📅 2026-08-30 - Multi-agent orchestrator with context-aware model routing. Routes tasks to optimal models based on complexity, manages context across parallel agents.
 * [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
 * [The New Skill in AI is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
 * [Context Engineering is Runtime of AI Agents | by Bijit Ghosh | Jun, 2025 | Medium](https://medium.com/@bijit211987/context-engineering-is-runtime-of-ai-agents-411c9b2ef1cb)
@@ -2126,4 +2126,4 @@ This comprehensive survey provides the latest academic insights and theoretical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
