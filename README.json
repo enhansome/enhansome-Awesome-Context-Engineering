@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "jasontang-ai",
             "repo": "Context-Engineering",
-            "stars": 9237,
+            "stars": 9236,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.512Z"
@@ -31,16 +31,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The open-source governance layer for AI agents. No model in the coordination loop: parallel runs in per-task git worktrees replay byte-identically; signed lineage + an opt-in HMAC audit chain verify offline. Claude Code, Codex, Gemini CLI, +40 more. Any deliverable, code to audit evidence. Cluster mode, air-gap. Beta. https://bernstein.run",
+            "description": "The open-source governance layer for AI agents. No model in the coordination loop: a plan replays to the same task graph, in per-task git worktrees; offline-verifiable run receipts, signed lineage + an opt-in HMAC audit chain. Claude Code, Codex, Gemini CLI, +40 more. Any deliverable, code to audit evidence. Beta. https://bernstein.run",
             "homepage": "https://bernstein.run",
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T20:00:28Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-01T17:46:57Z",
+            "open_issues": 159,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1040,
+            "stars": 1055,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:12:50.131Z",
+    "last_updated": "2026-09-01T17:53:14.233Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
