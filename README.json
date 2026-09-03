@@ -31,16 +31,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The open-source governance layer for AI agents. No model in the coordination loop: a plan replays to the same task graph, in per-task git worktrees; offline-verifiable run receipts, signed lineage + an opt-in HMAC audit chain. Claude Code, Codex, Gemini CLI, +40 more. Any deliverable, code to audit evidence. Beta. https://bernstein.run",
+            "description": "The open‑source AI Agents Governance & Orchestration framework: write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run",
             "homepage": "https://bernstein.run",
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T17:38:19Z",
-            "open_issues": 327,
+            "last_commit": "2026-09-03T17:37:44Z",
+            "open_issues": 282,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1072,
+            "stars": 1085,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:56:58.521Z",
+    "last_updated": "2026-09-03T17:54:43.049Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
@@ -83,7 +83,7 @@
       "open_issues": 66,
       "owner": "Meirtz",
       "repo": "Awesome-Context-Engineering",
-      "stars": 3291,
+      "stars": 3290,
       "topics": [
         "agent",
         "agentic-ai",
