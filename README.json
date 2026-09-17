@@ -36,11 +36,11 @@
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:06:59Z",
-            "open_issues": 326,
+            "last_commit": "2026-09-17T18:18:36Z",
+            "open_issues": 363,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1184,
+            "stars": 1189,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:14:49.479Z",
+    "last_updated": "2026-09-17T18:21:45.660Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
