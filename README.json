@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "jasontang-ai",
             "repo": "Context-Engineering",
-            "stars": 9254,
+            "stars": 9253,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.512Z"
@@ -36,11 +36,11 @@
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T19:26:44Z",
-            "open_issues": 318,
+            "last_commit": "2026-10-01T19:28:53Z",
+            "open_issues": 278,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1328,
+            "stars": 1336,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:29:44.097Z",
+    "last_updated": "2026-10-01T19:38:07.094Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
@@ -83,7 +83,7 @@
       "open_issues": 72,
       "owner": "Meirtz",
       "repo": "Awesome-Context-Engineering",
-      "stars": 3316,
+      "stars": 3317,
       "topics": [
         "agent",
         "agentic-ai",
