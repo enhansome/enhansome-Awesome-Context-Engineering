@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "davidkimai/Context-Engineering: \"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\"",
-          "description": null,
+          "description": "jasontang-ai/Context-Engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,11 +36,11 @@
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:15:47Z",
+            "last_commit": "2026-10-03T02:54:56Z",
             "open_issues": 267,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1348,
+            "stars": 1355,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:24:31.479Z",
+    "last_updated": "2026-10-03T04:25:16.674Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
