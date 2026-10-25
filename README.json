@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "jasontang-ai",
             "repo": "Context-Engineering",
-            "stars": 9261,
+            "stars": 9264,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.512Z"
@@ -36,8 +36,8 @@
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T16:35:43Z",
-            "open_issues": 276,
+            "last_commit": "2026-10-25T16:26:15Z",
+            "open_issues": 265,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
             "stars": 1330,
@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:29:51.327Z",
+    "last_updated": "2026-10-25T17:42:20.337Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
