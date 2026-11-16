@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "jasontang-ai",
             "repo": "Context-Engineering",
-            "stars": 9280,
+            "stars": 9282,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:06.512Z"
@@ -31,16 +31,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The open-source governance layer for AI agents: write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run",
+            "description": "Open-source AI agent governance. Write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run",
             "homepage": "https://bernstein.run",
             "id": 1188762020,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T14:40:45Z",
-            "open_issues": 269,
+            "last_commit": "2026-11-16T19:44:23Z",
+            "open_issues": 267,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "agent-fleet",
               "agent-governance",
@@ -69,7 +69,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:51:29.297Z",
+    "last_updated": "2026-11-16T23:26:42.489Z",
     "original_repository_info": {
       "archived": false,
       "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
